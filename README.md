@@ -4,24 +4,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
-
-### Screenshot
-
-![](/images/Desktop%20view.jpg)
-![](/images/Mobile%20phone%20view.jpg)
 
 ### Links
 
-- Live Site URL: [QR-Code](https://junior4j.github.io/QR-Code/)
+- Live Site URL: [QR-Code](https://qr-code-roan-xi.vercel.app/)
 
 ### Built with
 
@@ -34,7 +26,7 @@ How to create cards
 
 ### Continued development
 
-My HTML & CSS skills still need a brushing up tho, but i need more JavaScript projects
+My HTML & CSS skills still need a brushing up tho, but I need more JavaScript projects
 
 ## Acknowledgments
 
